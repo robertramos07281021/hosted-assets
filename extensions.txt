@@ -1,0 +1,6 @@
+auto rename tag
+es-6-string-html
+ESLint
+js jsx snippets
+multiple cursor case preserve
+simple reat snippets
